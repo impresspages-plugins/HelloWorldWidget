@@ -1,0 +1,7 @@
+{
+    "title": "Hello World widget",
+    "version": "1.00",
+    "name": "HelloWorldWidget",
+    "description": "Sample widget plugin. Drag 'My widget' from widget toolbar in administration menu to content area.",
+    "author": "ImpressPages"
+}
